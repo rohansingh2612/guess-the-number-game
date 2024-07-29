@@ -21,17 +21,17 @@ STEP 2:
 ```
 # Usage
 
-1  The game will generate a random number between 1 and 100.
-2  Enter your guesses when prompted.
-3  Based on your guesses, the program will respond with "LOWER NUMBER PLEASE" or "HIGHER NUMBER PLEASE".
-4  When you guess the correct number, the program will congratulate you and display the number of guesses it took.
+1.  The game will generate a random number between 1 and 100.
+2.  Enter your guesses when prompted.
+3.  Based on your guesses, the program will respond with "LOWER NUMBER PLEASE" or "HIGHER NUMBER PLEASE".
+4.  When you guess the correct number, the program will congratulate you and display the number of guesses it took.
 
 # Features
 
-1  Generates a random number between 1 and 100 for the user to guess.
-2  Provides feedback based on whether the guessed number is higher or lower than the random number.
-3  Counts the number of guesses taken to find the correct number.
-4  Simple and efficient implementation in C.
+1.  Generates a random number between 1 and 100 for the user to guess.
+2.  Provides feedback based on whether the guessed number is higher or lower than the random number.
+3.  Counts the number of guesses taken to find the correct number.
+4.  Simple and efficient implementation in C.
 
 # Contributing
 
